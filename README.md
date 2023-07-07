@@ -1,3 +1,25 @@
+## ✨Project preview
+
+<h1 align=center>🍕 Pizza Menu</h1>
+
+<h3 align="center">
+  Build Using:
+  <img align="center"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  
+</h3>
+
+<div align=center><img src="./public/pizzas/pizza-menu.png"  width="90%"/></div>
+
+<br/>
+
+<p align=center>Proyecto del curso: The Ultimate React Course 2023: React, Redux & More, de Jonas Schmedtmann.</p>
+
+<p align=center>🌐The online site: <a href="" target="_blank">🍕 Pizza Menu</a></p>
+
+## </br>
+
+</br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
