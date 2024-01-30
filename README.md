@@ -14,7 +14,7 @@
 
 <p align=center>Proyecto del curso: The Ultimate React Course 2023: React, Redux & More, de Jonas Schmedtmann.</p>
 
-<p align=center>🌐The online site: <a href="" target="_blank">🍕 Pizza Menu</a></p>
+<p align=center>🌐The online site: <a href="https://fast-react-menu-pizza-co.netlify.app/" target="_blank">🍕 Pizza Menu</a></p>
 
 ## </br>
 
